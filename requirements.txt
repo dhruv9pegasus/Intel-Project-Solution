@@ -1,0 +1,6 @@
+  Tkinter: for the graphical user interface (GUI)
+  Matplotlib: for plotting graphs
+  NumPy:fornumerical operations
+  PIL/Pillow: for image processing tasks
+  OpenCV:foradvanced image processing and computer vision
+  time: for simulating delays and animations
